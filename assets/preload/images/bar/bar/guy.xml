@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="guy.png">
+	<!-- Created with Adobe Animate version 22.0.6.202 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="guy0000" x="0" y="0" width="562" height="591" frameX="0" frameY="-25" frameWidth="575" frameHeight="617"/>
+	<SubTexture name="guy0001" x="0" y="0" width="562" height="591" frameX="0" frameY="-25" frameWidth="575" frameHeight="617"/>
+	<SubTexture name="guy0002" x="562" y="0" width="565" height="595" frameX="-2" frameY="-22" frameWidth="575" frameHeight="617"/>
+	<SubTexture name="guy0003" x="562" y="0" width="565" height="595" frameX="-2" frameY="-22" frameWidth="575" frameHeight="617"/>
+	<SubTexture name="guy0004" x="1127" y="0" width="565" height="611" frameX="-7" frameY="-6" frameWidth="575" frameHeight="617"/>
+	<SubTexture name="guy0005" x="1127" y="0" width="565" height="611" frameX="-7" frameY="-6" frameWidth="575" frameHeight="617"/>
+	<SubTexture name="guy0006" x="0" y="611" width="564" height="615" frameX="-9" frameY="-2" frameWidth="575" frameHeight="617"/>
+	<SubTexture name="guy0007" x="0" y="611" width="564" height="615" frameX="-9" frameY="-2" frameWidth="575" frameHeight="617"/>
+	<SubTexture name="guy0008" x="564" y="611" width="566" height="617" frameX="-9" frameY="0" frameWidth="575" frameHeight="617"/>
+	<SubTexture name="guy0009" x="564" y="611" width="566" height="617" frameX="-9" frameY="0" frameWidth="575" frameHeight="617"/>
+	<SubTexture name="guy0010" x="564" y="611" width="566" height="617" frameX="-9" frameY="0" frameWidth="575" frameHeight="617"/>
+	<SubTexture name="guy0011" x="564" y="611" width="566" height="617" frameX="-9" frameY="0" frameWidth="575" frameHeight="617"/>
+	<SubTexture name="guy0012" x="564" y="611" width="566" height="617" frameX="-9" frameY="0" frameWidth="575" frameHeight="617"/>
+	<SubTexture name="guy0013" x="564" y="611" width="566" height="617" frameX="-9" frameY="0" frameWidth="575" frameHeight="617"/>
+</TextureAtlas>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="thing.png">
+	<!-- Created with Adobe Animate version 22.0.6.202 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="thing0000" x="0" y="0" width="349" height="423" frameX="-3" frameY="-9" frameWidth="360" frameHeight="433"/>
+	<SubTexture name="thing0001" x="0" y="0" width="349" height="423" frameX="-3" frameY="-9" frameWidth="360" frameHeight="433"/>
+	<SubTexture name="thing0002" x="349" y="0" width="345" height="423" frameX="-4" frameY="-9" frameWidth="360" frameHeight="433"/>
+	<SubTexture name="thing0003" x="349" y="0" width="345" height="423" frameX="-4" frameY="-9" frameWidth="360" frameHeight="433"/>
+	<SubTexture name="thing0004" x="694" y="0" width="354" height="429" frameX="0" frameY="-4" frameWidth="360" frameHeight="433"/>
+	<SubTexture name="thing0005" x="694" y="0" width="354" height="429" frameX="0" frameY="-4" frameWidth="360" frameHeight="433"/>
+	<SubTexture name="thing0006" x="1048" y="0" width="355" height="432" frameX="-3" frameY="-1" frameWidth="360" frameHeight="433"/>
+	<SubTexture name="thing0007" x="1048" y="0" width="355" height="432" frameX="-3" frameY="-1" frameWidth="360" frameHeight="433"/>
+	<SubTexture name="thing0008" x="1403" y="0" width="356" height="433" frameX="-4" frameY="0" frameWidth="360" frameHeight="433"/>
+	<SubTexture name="thing0009" x="1403" y="0" width="356" height="433" frameX="-4" frameY="0" frameWidth="360" frameHeight="433"/>
+	<SubTexture name="thing0010" x="1403" y="0" width="356" height="433" frameX="-4" frameY="0" frameWidth="360" frameHeight="433"/>
+	<SubTexture name="thing0011" x="1403" y="0" width="356" height="433" frameX="-4" frameY="0" frameWidth="360" frameHeight="433"/>
+	<SubTexture name="thing0012" x="1403" y="0" width="356" height="433" frameX="-4" frameY="0" frameWidth="360" frameHeight="433"/>
+	<SubTexture name="thing0013" x="1403" y="0" width="356" height="433" frameX="-4" frameY="0" frameWidth="360" frameHeight="433"/>
+</TextureAtlas>

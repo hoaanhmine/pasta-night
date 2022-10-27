@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tankman.png">
+	<!-- Created with Adobe Animate version 22.0.6.202 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="tankman0000" x="0" y="0" width="423" height="559" frameX="-7" frameY="0" frameWidth="433" frameHeight="559"/>
+	<SubTexture name="tankman0001" x="0" y="0" width="423" height="559" frameX="-7" frameY="0" frameWidth="433" frameHeight="559"/>
+	<SubTexture name="tankman0002" x="423" y="0" width="429" height="549" frameX="-4" frameY="-4" frameWidth="433" frameHeight="559"/>
+	<SubTexture name="tankman0003" x="423" y="0" width="429" height="549" frameX="-4" frameY="-4" frameWidth="433" frameHeight="559"/>
+	<SubTexture name="tankman0004" x="852" y="0" width="433" height="547" frameX="0" frameY="-6" frameWidth="433" frameHeight="559"/>
+	<SubTexture name="tankman0005" x="852" y="0" width="433" height="547" frameX="0" frameY="-6" frameWidth="433" frameHeight="559"/>
+	<SubTexture name="tankman0006" x="852" y="0" width="433" height="547" frameX="0" frameY="-6" frameWidth="433" frameHeight="559"/>
+	<SubTexture name="tankman0007" x="852" y="0" width="433" height="547" frameX="0" frameY="-6" frameWidth="433" frameHeight="559"/>
+	<SubTexture name="tankman0008" x="852" y="0" width="433" height="547" frameX="0" frameY="-6" frameWidth="433" frameHeight="559"/>
+	<SubTexture name="tankman0009" x="852" y="0" width="433" height="547" frameX="0" frameY="-6" frameWidth="433" frameHeight="559"/>
+</TextureAtlas>
